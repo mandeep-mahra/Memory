@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Source+Sans+Pro:wght@700&display=swap');
+body{
+    text-align : center;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size : 5vw;
+}
+.gameBox{
+    
+    background-color: rgb(78, 73, 73);
+    display : inline-block;
+    margin-top : 2%; 
+    height : 25vw;
+    width : 25vw;
+    padding-top: 1.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.box{
+    height : 7vw;
+    width: 7vw;
+    background-color: #ffffff;
+    margin: 1.5%;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
